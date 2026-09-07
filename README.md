@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M7link
+- 👋 Hi, I’m Ibrahim
 - 👀 I’m interested in aviation, programing and Formula 1...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, php.
 
 
 <!---
